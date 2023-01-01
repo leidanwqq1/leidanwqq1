@@ -28,6 +28,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<div>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leidanwqq1&layout=compact" />
+</div>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -53,4 +57,5 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leidanwqq1&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
-[website]: https://kiranpachhai.com/
+
+
